@@ -35,7 +35,7 @@ passlib==1.7.2
 pbr==4.1.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.3.2
+Pillow==9.0.0
 prompt-toolkit==3.0.3
 protobuf==3.10.0
 ptyprocess==0.6.0
