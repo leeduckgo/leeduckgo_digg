@@ -28,7 +28,7 @@ ldap3==2.6.1
 MarkupSafe==1.0
 matplotlib==3.1.2
 migrate==0.3.8
-mitmproxy==7.0.3
+mitmproxy==8.0.0
 numpy==1.18.1
 parso==0.6.0
 passlib==1.7.2
